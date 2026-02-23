@@ -1,0 +1,4 @@
+.vs/ 
+TextSummarizerAPI/bin/ 
+TextSummarizerAPI/obj/ 
+TextSummarizerAPI/appsettings.Development.json 
